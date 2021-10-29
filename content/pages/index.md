@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Crafters of mini mukluks
+    title: Crafters of mini mukluk's
     actions:
       - label: Learn More
         url: /features
